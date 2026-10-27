@@ -1,0 +1,14 @@
+# Compatibility ranges, not a lockfile from the original course execution.
+numpy>=1.26,<3
+pandas>=2.1,<3
+scipy>=1.11,<2
+scikit-learn>=1.4,<1.8
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.14
+Boruta>=0.4,<0.5
+xgboost>=2,<4
+optuna>=3.5,<5
+shap>=0.45,<1
+interpret>=0.6,<1
+jupyterlab>=4,<5
+ipykernel>=6,<8

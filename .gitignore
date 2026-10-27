@@ -1,0 +1,21 @@
+# Restricted clinical data and derivatives: never commit these.
+data/
+*.csv
+*.parquet
+*.feather
+*.xlsx
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+catboost_info/
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+outputs/
